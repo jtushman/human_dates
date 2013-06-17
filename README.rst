@@ -27,5 +27,5 @@ Usage
     print time_ago_in_words()
     #prints "just now"
 
-    print time_ago_in_words(begining_of_day())
+    print time_ago_in_words(beginning_of_day())
     # prints 8 hours ago

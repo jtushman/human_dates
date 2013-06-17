@@ -6,6 +6,8 @@ So sharing it.
 
 Note I stole much of this from the following StackOverflow post: http://stackoverflow.com/a/1551394/192791
 
+Note: when you do not pass a time into a function it uses `datetime.utcnow()`
+
 
 Installation
 ------------
@@ -20,7 +22,7 @@ Usage
 
 .. code-block:: python
 
-    from human_dates import time_ago_in_words, begining_of_day
+    from human_dates import time_ago_in_words, beginning_of_day
 
     print time_ago_in_words()
     #prints "just now"

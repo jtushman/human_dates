@@ -24,7 +24,7 @@ Installation
 
 
 time_ago_in_words Usage
------
+-----------------------
 
 .. code-block:: python
 
@@ -34,10 +34,11 @@ time_ago_in_words Usage
     #prints "just now"
 
     print time_ago_in_words(beginning_of_day())
-    # prints 8 hours ago
+    # prints "8 hours ago"
 
 
 Natural Language Helpers
+------------------------
 
 .. code-block:: python
 
@@ -65,6 +66,8 @@ Alternatives
 It's heavyweight for me but might be great for you)
 
 Other Important Time Libraries
+------------------------------
+
 - DateUtil: http://labix.org/python-dateutil
 - PyTz: http://pytz.sourceforge.net/
 

@@ -62,8 +62,7 @@ Natural Language Helpers
 Alternatives
 ------------
 
-- Delorean: http://delorean.readthedocs.org/en/latest/quickstart.html  (<-- please look at this before using human_dates.
-It's heavyweight for me but might be great for you)
+- Delorean: http://delorean.readthedocs.org/en/latest/quickstart.html  (<-- please look at this before using human_dates.  It's heavyweight for me but might be great for you)
 
 Other Important Time Libraries
 ------------------------------
